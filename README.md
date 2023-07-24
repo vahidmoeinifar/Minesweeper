@@ -1,2 +1,19 @@
-# Minesweeper
-This is a simple Minesweeper game implemented using the Qt Quick framework. The classic Minesweeper gameplay is brought to life with a user-friendly interface and intuitive controls. Uncover the tiles on the grid, avoid the hidden mines, and use logic to determine the safe tiles to progress through the game.
+# Qt Quick Minesweeper Game
+
+
+
+
+## Introduction
+
+Welcome to the Qt Quick Minesweeper Game! This project is a classic implementation of the popular Minesweeper game, built using the Qt Quick framework. The objective is simple: uncover the tiles on the grid without hitting any hidden mines. Exercise your strategic thinking and logical skills to avoid the mines and complete the board!
+
+
+
+
+
+### Installation
+
+1. Clone this repository to your local machine using:
+
+   ```bash
+   git clone https://github.com/your-username/minesweeper-qt-quick.git

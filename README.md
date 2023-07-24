@@ -1,7 +1,7 @@
 # Qt Quick Minesweeper Game
 
 
-
+![](https://github.com/vahidmoeinifar/Minesweeper/blob/main/screenshot.jpg)
 
 ## Introduction
 

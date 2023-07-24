@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>cell.qml</file>
+        <file>flag.png</file>
+        <file>mine.png</file>
+        <file>Flag.qml</file>
+        <file>explosion.gif</file>
+        <file>Tiles.qml</file>
+    </qresource>
+</RCC>
